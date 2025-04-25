@@ -27,4 +27,4 @@ jobs:
           tags: ayushmandwivedi/paytm-clone:latest # Replace with your Docker Hub username and repository
 
       - name: Verify Pushed Image
-        run: ayushmandwivedi/paytm-clone:latest # Replace with your Docker Hub username and repository
+        run: docker pull ayushmandwivedi/paytm-clone:latest # Replace with your Docker Hub username and repository
