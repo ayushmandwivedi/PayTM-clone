@@ -1,3 +1,5 @@
+// JUST FOR TESTING WORKFLOW AFTER ADDING SCRIPT FOR GENERATING PRISMA CLIENT
+
 import { getServerSession } from "next-auth";
 import { redirect } from "next/navigation";
 import { authOptions } from "./lib/auth";
